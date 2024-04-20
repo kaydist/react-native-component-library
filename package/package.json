@@ -1,0 +1,28 @@
+{
+  "name": "react-native-package-name",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "publishConfig": {
+    "registry": ""
+  },
+  "dependencies": {
+    "react-native": "0.71.3"
+  }
+}
